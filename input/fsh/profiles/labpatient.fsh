@@ -23,7 +23,6 @@ Id: ZimGender
 Title: "Gender Value Set"
 
 Description: "Administrative Gender"
-* ^copyright = "MOHCC_ZW"
-* http://hl7.org/fhir/administrative-gender#male = "Male"
-* http://hl7.org/fhir/administrative-gender#female = "Female"
-* http://hl7.org/fhir/administrative-gender#unknown = "Unknown"
+* http://hl7.org/fhir/administrative-gender#male "Male"
+* http://hl7.org/fhir/administrative-gender#female  "Female"
+* http://hl7.org/fhir/administrative-gender#unknown "Unknown"
